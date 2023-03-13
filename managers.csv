@@ -1,14 +1,7 @@
 title,heading,content,tokens
-Timmy,unlock level = 7,Raised by robot papa and mama he grew up very sweet and hardworking,100
-Timmy,unlock level = 7,The only human,100
-Timmy,unlock level = 7,human being,100
-Timmy ,unlock level = 7,bit stupid,100
-LillyPI,unlock level = 8,Car mechanic robot raised by humans. ,100
-LillyPI,unlock level = 8,Smart funny and caring gal.,100
-LillyPI,unlock level = 8,Makes Timmy more productive!,100
-Hammerhands,unlock level = 9,Quick to anger,100
-Hammerhands,unlock level = 9,Hard to tolerate,100
-Hammerhands,unlock level = 9,"A tough, strong robot with hammers for hands.",100
+Timmy,unlock level = 7,"his name is Timmy,Raised by robot papa and mama he grew up very sweet and hardworking, The only human, human being, bit stupid",100
+LillyPI,unlock level = 8,"her name is LillyPI, Car mechanic robot raised by humans. Smart funny and caring gal.Makes Timmy more productive! Is in love with Timmy",100
+Hammerhands,unlock level = 9,"Quick to anger,Hard to tolerate, A tough, strong robot with hammers for hands. ",100
 Dishwasher,unlock level = 10,"A dishwashing robot has to make money somehow, so doing side jobs is a thing now...",100
 Sunny Bunny,unlock level = 10,"Due to her previous affair with police chief, increases revenue from mafia cars",100
 Policeman,unlock level = 14,A police car colored enforcer robot who always seems to get handcuffed to something by accident.,100
@@ -24,4 +17,3 @@ Devilbot,unlock level = 32,"After he took the office, things changed. A lot. Wha
 Whisker Candy,unlock level = 34,Perfecting the art of food in the city of dreams. Increases food production speed,100
 Oiler,unlock level = 41,A many hands advanced crafting bot for dripping oil,100
 Square Sam,unlock level = 45,You'd be surprised how many lumberjacks need a costume fitting this days. Go figure.,100
-Movses ,unlock level = 26,has a birthday today ,100
