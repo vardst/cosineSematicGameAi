@@ -3,3 +3,5 @@
 /Scripts/
 /share/
 /.env
+/.vscode/
+/pyvenv.cfg
